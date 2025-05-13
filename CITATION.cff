@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use any of the individual mini-projects in this repository, please consider citing this collection using the metadata below."
+title: "Mini-project Collection by Anubhab Das"
+version: "1.0.0"
+date-released: 2025-05-13
+authors:
+  - family-names: "Das"
+    given-names: "Anubhab"
+    orcid: "0009-0001-5814-650X"
+license: "MIT"
+repository-code: "https://github.com/anubhabdaserrr/mini-projects"
+url: "https://github.com/anubhabdaserrr/mini-projects"
